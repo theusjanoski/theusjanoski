@@ -4,7 +4,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software e WEB.
 - 🎓 Estudando Análise e Desenvolvimeento na Universidade de Sorocaba.
-- 💼 Trabalhando como Helpdesk na Prefeitura de Sorocaba.
+- 💼 Trabalhando atualmente com IoT na Wise Space.
 - 🌱 Aprendendo mais sobre Front-end (HTML, CSS e JavaScript).
 
 ## Minhas Skills
